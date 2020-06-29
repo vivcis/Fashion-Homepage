@@ -1,0 +1,16 @@
+nav{
+    background-color: #5C2018;
+}
+body{
+font-family: Montserrat;
+}
+.navimg{
+    background: url(../img/image_9\ 1.png);
+    width: 100%;
+    height: 800px;
+    padding-top: 295px;
+}
+.a ,.b{
+    display: table;
+    margin: 0 auto;
+}
